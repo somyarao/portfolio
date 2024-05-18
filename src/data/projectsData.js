@@ -12,27 +12,27 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Product Description Automation',
-        projectDesc: "This project aims to project to improve product information quality on Meijer's site, aiming to enhance customer satisfaction and reduce attrition.",
-        tags: ['NLP', 'OCR', 'Transformers', 'Azure ML Studio'],
+        projectDesc: "This project aims to improve product information quality on Meijer's site, aiming to enhance customer satisfaction and reduce attrition.",
+        tags: ['OCR', 'Transformers', 'Azure ML Studio'],
         code: 'https://github.com/srujanakalyadapu/Product-Description-Automation',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Flagging Derogatory Content',
+        projectDesc: 'This project aims to detect and flag inappropriate content on Craigslist with 90% accuracy.',
+        tags: ['Python', 'BERT','GloVe'],
+        code: 'https://github.com/srujanakalyadapu/Flag_derogatory_content',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Delivery Operations Optimization',
+        projectDesc: "This project aims to enhance STEM Store's delivery with dynamic vendor allocation, cutting lead time by 40% and shipment costs by 15%, boosting customer satisfaction and growth. ",
+        tags: ['MySQL', 'Tableau'],
+        code: 'https://github.com/srujanakalyadapu/Delivery-Operations-Optimization',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: three
     },
