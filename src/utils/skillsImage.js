@@ -83,15 +83,15 @@ import powerbi from '../assets/svg/skills/powerbi.svg'
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
-        case 'Tableau':
+        case 'tableau':
             return tableau;        
-        case 'Powerpoint':
+        case 'powerpoint':
             return powerpoint;        
-        case 'Rstudio':
+        case 'rstudio':
             return rstudio;        
-        case 'PowerBI':
+        case 'powerbi':
             return powerbi;
-        case 'Excel':
+        case 'excel':
             return excel;
         case 'gcp':
             return gcp;

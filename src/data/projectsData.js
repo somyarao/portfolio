@@ -11,10 +11,10 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Product Description Automation',
+        projectDesc: "This project aims to project to improve product information quality on Meijer's site, aiming to enhance customer satisfaction and reduce attrition.",
+        tags: ['NLP', 'OCR', 'Transformers', 'Azure ML Studio'],
+        code: 'https://github.com/srujanakalyadapu/Product-Description-Automation',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: one
     },

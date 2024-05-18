@@ -1,23 +1,25 @@
+import { Description } from "@material-ui/icons";
+
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'Microsoft',
+        jobtitle: 'Data Scientist',
+        startYear: '2024',
+        endYear: '2024'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        company: 'Merilytics',
+        jobtitle: 'Senior Business Associate',
+        startYear: '2023',
+        endYear: '2023'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
+        company: 'Hindustan Unilever Limited',
+        jobtitle: 'Assistant Availability and Kitting Manager',
         startYear: '2020',
-        endYear: 'Present'
+        endYear: '2023'
     },
 ]
