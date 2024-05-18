@@ -72,13 +72,27 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
-
+import excel from '../assets/svg/skills/excel.svg'
 import canva from '../assets/svg/skills/canva.svg'
+import tableau from '../assets/svg/skills/tableau.svg'
+import powerpoint from '../assets/svg/skills/powerpoint.svg'
+import rstudio from '../assets/svg/skills/rstudio.svg'
+import powerbi from '../assets/svg/skills/powerbi.svg'
 
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
+        case 'Tableau':
+            return tableau;        
+        case 'Powerpoint':
+            return powerpoint;        
+        case 'Rstudio':
+            return rstudio;        
+        case 'PowerBI':
+            return powerbi;
+        case 'Excel':
+            return excel;
         case 'gcp':
             return gcp;
         case 'html':

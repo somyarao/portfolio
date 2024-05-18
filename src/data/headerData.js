@@ -2,8 +2,8 @@ import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
     name: 'Srujana Kalyadapu',
-    title: "Data Analyst",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    title: "Aspiring Business Analyst",
+    desciption:" I am a driven and resourceful Business Analytics graduate from Purdue University with over three years of experience in data analytics, consulting, and supply chain management. ",
     image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
     resumePdf: resume
 }
