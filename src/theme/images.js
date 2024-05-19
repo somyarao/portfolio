@@ -5,7 +5,7 @@ import bwThemegirl from '../assets/svg/about/bwTheme-girl.svg'
 import greenThemeboy from '../assets/svg/about/greenTheme-boy.svg'
 import greenThemegirl from '../assets/svg/about/greenTheme-girl.svg'
 import orangeThemeboy from '../assets/svg/about/orangeTheme-boy.svg'
-import orangeThemegirl from '../assets/svg/about/orangeTheme-girl.svg'
+import orangeThemegirl from '../assets/svg/about/orangeTheme-girl.jpeg'
 import pinkThemeboy from '../assets/svg/about/pinkTheme-boy.svg'
 import pinkThemegirl from '../assets/svg/about/pinkTheme-girl.svg'
 import purpleThemeboy from '../assets/svg/about/purpleTheme-boy.svg'
@@ -18,7 +18,7 @@ import yellowThemegirl from '../assets/svg/about/yellowTheme-girl.svg'
 import eduBlue from '../assets/svg/education/eduBlue.svg'
 import eduGreen from '../assets/svg/education/eduGreen.svg'
 import eduBlack from '../assets/svg/education/eduBlack.svg'
-import eduOrange from '../assets/svg/education/eduOrange.svg'
+import eduOrange from '../assets/svg/education/eduOrange.jpg'
 import eduPink from '../assets/svg/education/eduPink.svg'
 import eduPurple from '../assets/svg/education/eduPurple.svg'
 import eduRed from '../assets/svg/education/eduRed.svg'
@@ -28,6 +28,7 @@ import expBlue from '../assets/svg/experience/expBlue.svg'
 import expGreen from '../assets/svg/experience/expGreen.svg'
 import expBlack from '../assets/svg/experience/expBlack.svg'
 import expOrange from '../assets/svg/experience/expOrange.svg'
+import experiencen from '../assets/svg/experience/experiencen.svg'
 import expPink from '../assets/svg/experience/expPink.svg'
 import expPurple from '../assets/svg/experience/expPurple.svg'
 import expRed from '../assets/svg/experience/expRed.svg'
@@ -48,5 +49,5 @@ export {
     orangeThemegirl, pinkThemeboy, pinkThemegirl, purpleThemeboy, purpleThemegirl, redThemeboy, redThemegirl,
     yellowThemeboy,yellowThemegirl,eduBlue,eduBlack,eduGreen,eduOrange,eduPink,eduPurple,eduRed,eduYellow,
     expBlue,expBlack,expGreen,expOrange,expPink,expPurple,expRed,expYellow,contactsBlue,contactsBlack,
-    contactsGreen,contactsOrange,contactsPink,contactsPurple,contactsRed,contactsYellow
+    contactsGreen,contactsOrange,contactsPink,contactsPurple,contactsRed,contactsYellow,experiencen
 }

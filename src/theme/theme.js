@@ -4,7 +4,7 @@ import {
     orangeThemegirl, pinkThemeboy, pinkThemegirl, purpleThemeboy, purpleThemegirl, redThemeboy, redThemegirl, yellowThemeboy,
     yellowThemegirl,eduBlack,eduBlue,eduGreen,eduOrange,eduPink,eduPurple,eduRed,eduYellow,expBlack,expBlue,expGreen,expOrange,
     expPink,expPurple,expRed,expYellow,contactsBlack,contactsBlue,contactsGreen,contactsOrange,contactsPink,contactsPurple,
-    contactsRed,contactsYellow
+    contactsRed,contactsYellow,experiencen,
 } from './images'
 
 
@@ -182,12 +182,12 @@ export const redThemeDark = {
 
 export const orangeThemeLight = {
     type: 'light',
-    primary: '#f56539',
+    primary: '#188abd',
     primary400: '#ff764d',
     primary600: '#fa5624',
-    primary80: '#f56539cc',
-    primary50: '#f5653980',
-    primary30: '#f565394d',
+    primary80: '#188abdcc',
+    primary50: '#188abd80',
+    primary30: '#188abd4d',
     secondary: '#eaeaea',
     secondary70: '#eaeaeab3',
     secondary50: '#eaeaea80',
@@ -203,12 +203,12 @@ export const orangeThemeLight = {
 }
 export const orangeThemeDark = {
     type: 'dark',
-    primary: '#f56539',
+    primary: '#188abd',
     primary400: '#ff764d',
     primary600: '#fa5624',
-    primary80: '#f56539cc',
-    primary50: '#f5653980',
-    primary30: '#f565394d',
+    primary80: '#188abdcc',
+    primary50: '#188abd80',
+    primary30: '#188abd4d',
     secondary: '#212121',
     secondary70: '#212121b3',
     secondary50: '#21212180',
@@ -219,7 +219,7 @@ export const orangeThemeDark = {
     aboutimg1: orangeThemeboy,
     aboutimg2: orangeThemegirl,
     eduimg: eduOrange,
-    expimg: expOrange,
+    expimg: experiencen,
     contactsimg: contactsOrange
 }
 
