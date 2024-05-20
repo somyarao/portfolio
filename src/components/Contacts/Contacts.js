@@ -4,26 +4,26 @@ import CloseIcon from '@material-ui/icons/Close';
 import axios from 'axios';
 import isEmail from 'validator/lib/isEmail';
 import { makeStyles } from '@material-ui/core/styles';
-import {
-    FaTwitter,
-    FaLinkedinIn,
-    FaGithub,
-    FaYoutube,
-    FaBloggerB,
-    FaRedditAlien,
-    FaStackOverflow,
-    FaCodepen,
-    FaInstagram,
-    FaGitlab,
-    FaMediumM,
-} from 'react-icons/fa';
+// import {
+//     FaTwitter,
+//     FaLinkedinIn,
+//     FaGithub,
+//     FaYoutube,
+//     FaBloggerB,
+//     FaRedditAlien,
+//     FaStackOverflow,
+//     FaCodepen,
+//     FaInstagram,
+//     FaGitlab,
+//     FaMediumM,
+// } from 'react-icons/fa';
 import { AiOutlineSend, AiOutlineCheckCircle } from 'react-icons/ai';
 import { FiPhone, FiAtSign } from 'react-icons/fi';
 import { HiOutlineLocationMarker } from 'react-icons/hi';
 
 import { ThemeContext } from '../../contexts/ThemeContext';
 
-import { socialsData } from '../../data/socialsData';
+// import { socialsData } from '../../data/socialsData';
 import { contactsData } from '../../data/contactsData';
 import './Contacts.css';
 
@@ -312,7 +312,7 @@ function Contacts() {
                             </p>
                         </div>
 
-                        <div className='socialmedia-icons'>
+                        {/* <div className='socialmedia-icons'>
                             {socialsData.twitter && (
                                 <a
                                     href={socialsData.twitter}
@@ -423,9 +423,9 @@ function Contacts() {
                                     <FaGitlab aria-label='GitLab' />
                                 </a>
                             )}
+                        </div>*/}
                         </div>
-                    </div>
-                </div>
+                </div> 
             </div>
             <img
                 src={theme.contactsimg}

@@ -183,7 +183,7 @@ export const redThemeDark = {
 export const orangeThemeLight = {
     type: 'light',
     primary: '#188abd',
-    primary400: '#ff764d',
+    primary400: '#188ABD4D',
     primary600: '#fa5624',
     primary80: '#188abdcc',
     primary50: '#188abd80',
@@ -204,7 +204,7 @@ export const orangeThemeLight = {
 export const orangeThemeDark = {
     type: 'dark',
     primary: '#188abd',
-    primary400: '#ff764d',
+    primary400: '#188ABD4D',
     primary600: '#fa5624',
     primary80: '#188abdcc',
     primary50: '#188abd80',

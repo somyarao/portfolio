@@ -1,11 +1,11 @@
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+import one from '../assets/svg/projects/one.png'
+import two from '../assets/svg/projects/two.png'
+import three from '../assets/svg/projects/three.png'
+import four from '../assets/svg/projects/four.png'
+import five from '../assets/svg/projects/five.png'
+import six from '../assets/svg/projects/six.png'
+import seven from '../assets/svg/projects/seven.png'
+// import eight from '../assets/svg/projects/eight.svg'
 
 
 export const projectsData = [
@@ -15,7 +15,7 @@ export const projectsData = [
         projectDesc: "This project aims to improve product information quality on Meijer's site, aiming to enhance customer satisfaction and reduce attrition.",
         tags: ['OCR', 'Transformers', 'Azure ML Studio'],
         code: 'https://github.com/srujanakalyadapu/Product-Description-Automation',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://docs.google.com/presentation/d/1fTHDWDPlABcEv_mSeiCzEDS1AE6223qZ/edit?usp=sharing&ouid=113398017461945714807&rtpof=true&sd=true',
         image: one
     },
     {
@@ -24,7 +24,7 @@ export const projectsData = [
         projectDesc: 'This project aims to detect and flag inappropriate content on Craigslist with 90% accuracy.',
         tags: ['Python', 'BERT','GloVe'],
         code: 'https://github.com/srujanakalyadapu/Flag_derogatory_content',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://docs.google.com/presentation/d/1nuD2JSnVGynUcqu9gvvGF1x929w_PTXT/edit?usp=sharing&ouid=113398017461945714807&rtpof=true&sd=true',
         image: two
     },
     {
@@ -33,53 +33,44 @@ export const projectsData = [
         projectDesc: "This project aims to enhance STEM Store's delivery with dynamic vendor allocation, cutting lead time by 40% and shipment costs by 15%, boosting customer satisfaction and growth. ",
         tags: ['MySQL', 'Tableau'],
         code: 'https://github.com/srujanakalyadapu/Delivery-Operations-Optimization',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://docs.google.com/presentation/d/1eGoEx492LSYckagRyncQzMMGzj4LqIvE/edit?usp=sharing&ouid=113398017461945714807&rtpof=true&sd=true',
         image: three
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Enhancing Bankruptcy Prediction',
+        projectDesc: 'This study develops a predictive model using financial ratios and metrics to assess firm bankruptcy likelihood.',
+        tags: ['SAS EM', 'Gradient Boosting','HP Neural','Logistic Regression'],
+        code: 'https://github.com/srujanakalyadapu/Enhancing-Bankruptcy-Prediction',
+        demo: 'https://docs.google.com/presentation/d/1o5HZDJlMkavhln-lb_ciEn_44Aol-4zM/edit?usp=sharing&ouid=113398017461945714807&rtpof=true&sd=true',
         image: four
     },
     {
         id: 5,
-        projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
-        tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Causality of Airbnb Superhost Status',
+        projectDesc: 'This project aims to assess the Super host badge impact on Airbnb occupancy rates in Chicago, utilizing statistical methods to optimize pricing and enhance revenue.',
+        tags: ['Python', 'DID Regression','Clustering'],
+        code: 'https://github.com/srujanakalyadapu/Causality-of-Airbnb-Superhost-effect',
+        demo: 'https://docs.google.com/presentation/d/1M7nkQB9BOnbUU0Nxenw4hbb4nc2MHFK5/edit?usp=sharing&ouid=113398017461945714807&rtpof=true&sd=true',
         image: five
     },
     {
         id: 6,
-        projectName: 'Uber Lite',
-        projectDesc: 'Uber clone',
-        tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'NBA Fantasy Lineup Optimization',
+        projectDesc: 'This project employs advanced analytics and optimization techniques to build high-performance NBA fantasy lineups that optimizes player performance for enhanced fantasy sports results.',
+        tags: ['Python','Machine learning','Integer programming','Dynamic Programming'],
+        code: 'https://github.com/srujanakalyadapu/DFS-Lineup-Optimization',
+        demo: 'https://drive.google.com/file/d/1j-yhfpj38PunSzcklEc5gD2Zspp2WwSp/view?usp=sharing',
         image: six
     },
     {
         id: 7,
-        projectName: 'Stock Market App',
-        projectDesc: 'A simple stock market API app',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Health Insurance Pricing and Risk Analysis',
+        projectDesc: 'This project analyzes US health insurance costs, examining the impact of preexisting conditions, diet, and lifestyle on premiums and risk profiles to aid insurers in developing customized pricing strategies.',
+        tags: ['Tableau'],
+        code: 'https://github.com/srujanakalyadapu/Health-Insurance-Pricing-and-Risk-Analysis',
+        demo: 'https://docs.google.com/presentation/d/1tpapdSk1L49XBjdrixW6WQHqC0JqIThK/edit?usp=sharing&ouid=113398017461945714807&rtpof=true&sd=true',
         image: seven
-    },
-    {
-        id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-        tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: eight
     },
 ]
 
