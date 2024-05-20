@@ -3,5 +3,5 @@ export const contactsData = {
     phone: '+17656945240',
     address: '1725 Columbia St., Lafayette, Indiana, United States - 47901 ',
 
-    sheetAPI: ''
+    sheetAPI: 'https://sheetdb.io/api/v1/6d5i71p2ne3mh'
 }
