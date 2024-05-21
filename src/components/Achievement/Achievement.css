@@ -76,11 +76,11 @@
 }
 
 .achievecard-details2 h5 {
-   width: 50%;
+   width: 100%;
 }
 
 .achievecard-field {
-    width: 50%;
+    width: 200%;
     display: flex;
     flex-direction: row;
     align-items: center;

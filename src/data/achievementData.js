@@ -6,7 +6,7 @@ export const achievementData = {
             title : 'Microsoft Azure Fundamentals (AZ-900)',
             details : 'Provides foundational knowledge of Microsoft Azures cloud services, focusing on core functionalities, security features, and compliance across cloud environments.',
             date : 'Oct 7, 2023',
-            field : 'Automation',
+            field : 'Cloud Computing',
             image : 'azure_fundamentals copy.jpg'
         },
         {
@@ -14,7 +14,7 @@ export const achievementData = {
             title : 'AWS Certified Cloud Practitioner',
             details : 'Offers a broad understanding of AWS ecosystem, detailing essential services, security protocols, and architectural best practices for cloud solutions.',
             date : 'Dec 16, 2023',
-            field : 'Automation',
+            field : 'Cloud Computing',
             image : 'aws2 copy.png'
         },
         {
@@ -22,7 +22,7 @@ export const achievementData = {
             title : 'Tableau Desktop Specialist',
             details : 'Validates abilities in using Tableau to effectively create data visualizations and dashboards that translate complex datasets into actionable business insights.',
             date : 'Dec 30, 2023',
-            field : 'Automation',
+            field : 'Data Visualization',
             image : 'tableaudesktop copy.png'
         },
         {
@@ -30,7 +30,7 @@ export const achievementData = {
             title : 'Google Advanced Data Analytics',
             details : 'Develops advanced analytical skills using Google’s tools, focusing on leveraging big data, machine learning, and statistical methods to drive strategic decisions.',
             date : 'May 6, 2024',
-            field : 'Automation',
+            field : 'Data Analytics',
             image : 'google advanced.png'
         }
 

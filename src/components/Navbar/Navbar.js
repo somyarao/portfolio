@@ -48,7 +48,7 @@ function Navbar() {
         },
         MuiDrawer: {
             padding: '0em 1.8em',
-            width: '14em',
+            width: '18em',
             fontFamily: ' var(--primaryFont)',
             fontStyle: ' normal',
             fontWeight: ' normal',
@@ -213,7 +213,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#resume'
+                                to='/#Education'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -223,15 +223,15 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Resume
+                                        Education
                                     </span>
                                 </div>
                             </NavLink>
                         </Fade>
 
-                        <Fade left>
+                         <Fade left>
                             <NavLink
-                                to='/#services'
+                                to='/#Experience'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -241,15 +241,15 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Services
+                                        Experience
                                     </span>
                                 </div>
                             </NavLink>
-                        </Fade>
+                        </Fade> 
 
-                        <Fade left>
+                         <Fade left>
                             <NavLink
-                                to='/#blog'
+                                to='/#achievement'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -259,7 +259,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Blog
+                                        Achievements
                                     </span>
                                 </div>
                             </NavLink>
