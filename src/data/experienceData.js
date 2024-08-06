@@ -4,22 +4,22 @@ export const experienceData = [
     {
         id: 1,
         company: 'Microsoft',
-        jobtitle: 'Data Scientist',
+        jobtitle: 'Data Analyst Intern',
         startYear: 'Jan 2024',
         endYear: 'Apr 2024'
     },
     {
         id: 2,
         company: 'Merilytics',
-        jobtitle: 'Senior Business Associate',
+        jobtitle: 'Senior Business Analyst',
         startYear: 'Feb 2023',
         endYear: 'Jul 2023'
     },
     {
         id: 3,
         company: 'Hindustan Unilever Limited',
-        jobtitle: 'Assistant Availability and Kitting Manager',
+        jobtitle: 'Assistant Analytics Manager',
         startYear: 'Aug 2020',
-        endYear: 'Nov 2022'
+        endYear: 'Jan 2023'
     },
 ]
