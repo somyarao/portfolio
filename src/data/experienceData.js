@@ -18,7 +18,7 @@ export const experienceData = [
     {
         id: 3,
         company: 'Hindustan Unilever Limited',
-        jobtitle: 'Senior Analyst,Supply Chain',
+        jobtitle: 'Senior Analyst, Supply Chain',
         startYear: 'Aug 2020',
         endYear: 'Jan 2023'
     }
