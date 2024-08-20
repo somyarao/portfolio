@@ -18,8 +18,8 @@ export const experienceData = [
     {
         id: 3,
         company: 'Hindustan Unilever Limited',
-        jobtitle: 'Assistant Analytics Manager',
+        jobtitle: 'Senior Analyst,Supply Chain',
         startYear: 'Aug 2020',
         endYear: 'Jan 2023'
-    },
+    }
 ]
