@@ -1,6 +1,6 @@
  export const skillsData = [
     'Python',
-    'Azure',
+    'Docker',
     'MySQL',
     'Pytorch',
     'AWS',
@@ -10,6 +10,11 @@
     'Rstudio',
     'Tensorflow',
     'PowerBI',
+    'Illustrator',
+    'Markdown',
+    'Microsoft Office',
+    'Numpy',
+    'Canva',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

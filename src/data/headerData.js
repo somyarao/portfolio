@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-    name: 'Srujana Kalyadapu',
-    title: "Aspiring Business Analyst",
-    desciption:" I am a driven and resourceful Business Analytics graduate from Purdue University with over three years of experience in data analytics, consulting, and supply chain management. ",
-    image: 'SK.jpeg',
+    name: 'Sowmya Muthyala',
+    title: "Aspiring Bioinformatician",
+    desciption:" I am a driven Bioinformatics graduate from Northeastern University with profound experience in data analytics, omics and chemoinformatics. ",
+    image: 'SM.jpeg',
     resumePdf: resume
 }

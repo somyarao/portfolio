@@ -1,14 +1,14 @@
 export const achievementData = {
-    bio : "My certifications in Microsoft Azure Fundamentals, AWS, Tableau, SAS Optimization, Google Data Analytics, and SQL and Python from DataCamp demonstrate extensive expertise across essential platforms and tools. These credentials enable me to enhance operational efficiency and leverage data-driven strategies effectively in various business environments.",
+    bio : "My certifications include AWS Cloud Practitioner and Tableau Desktop, which equip me with the skills to optimize computational workflows and apply data-driven strategies for analyzing complex biological datasets, enhancing the efficiency of bioinformatics research and operations.",
     achievements : [
-        {
-            id : 1,
-            title : 'Microsoft Azure Fundamentals (AZ-900)',
-            details : 'Provides foundational knowledge of Microsoft Azures cloud services, focusing on core functionalities, security features, and compliance across cloud environments.',
-            date : 'Oct 7, 2023',
-            field : 'Cloud Computing',
-            image : 'azure_fundamentals copy.jpg'
-        },
+        // { 
+        //     id : 1,
+        //     title : 'Microsoft Azure Fundamentals (AZ-900)',
+        //     details : 'Provides foundational knowledge of Microsoft Azures cloud services, focusing on core functionalities, security features, and compliance across cloud environments.',
+        //     date : 'Oct 7, 2023',
+        //     field : 'Cloud Computing',
+        //     image : 'azure_fundamentals copy.jpg'
+        // },
         {
             id : 2,
             title : 'AWS Certified Cloud Practitioner',
@@ -24,15 +24,16 @@ export const achievementData = {
             date : 'Dec 30, 2023',
             field : 'Data Visualization',
             image : 'tableaudesktop copy.png'
-        },
-        {
-            id : 4,
-            title : 'Google Advanced Data Analytics',
-            details : 'Develops advanced analytical skills using Google’s tools, focusing on leveraging big data, machine learning, and statistical methods to drive strategic decisions.',
-            date : 'May 6, 2024',
-            field : 'Data Analytics',
-            image : 'google advanced.png'
         }
+        // },
+        // {
+        //     id : 4,
+        //     title : 'Google Advanced Data Analytics',
+        //     details : 'Develops advanced analytical skills using Google’s tools, focusing on leveraging big data, machine learning, and statistical methods to drive strategic decisions.',
+        //     date : 'May 6, 2024',
+        //     field : 'Data Analytics',
+        //     image : 'google advanced.png'
+        // }
 
     ]
 }

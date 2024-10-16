@@ -3,23 +3,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Microsoft',
-        jobtitle: 'Data Analyst Intern',
-        startYear: 'Jan 2024',
-        endYear: 'Apr 2024'
+        company: 'Northeastern University',
+        jobtitle: 'Bioinformatics and Machine Learning Co-op',
+        startYear: 'Jul 2024',
+        endYear: 'Present'
     },
     {
         id: 2,
-        company: 'Merilytics',
-        jobtitle: 'Senior Business Analyst',
-        startYear: 'Feb 2023',
-        endYear: 'Jul 2023'
+        company: 'Revelations Biotech Pvt Ltd',
+        jobtitle: 'Quality Control Microbiologist',
+        startYear: 'Jan 2022',
+        endYear: 'May 2022'
     },
     {
         id: 3,
-        company: 'Hindustan Unilever Limited',
-        jobtitle: 'Senior Analyst, Supply Chain',
-        startYear: 'Aug 2020',
-        endYear: 'Jan 2023'
+        company: 'Indian Institute of Technology',
+        jobtitle: 'Systems Biology Intern',
+        startYear: 'Jun 2019',
+        endYear: 'Jul 2019'
     }
 ]

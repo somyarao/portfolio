@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'srujanakalyadapu@gmail.com',
-    phone: '+17656945240',
-    address: '1725 Columbia St., Lafayette, Indiana, United States - 47901 ',
+    email: 'muthyala.s@northeastern.edu',
+    phone: '+1 (857)-370 1821',
+    address: 'Boston, MA',
 
     sheetAPI: 'https://sheetdb.io/api/v1/6d5i71p2ne3mh'
 }
